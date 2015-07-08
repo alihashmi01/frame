@@ -1,0 +1,829 @@
+{
+    "topics": [
+        {
+            "topic": "0", 
+            "keywords": [
+                {
+                    "frequency": "33", 
+                    "keyword": "army"
+                }, 
+                {
+                    "frequency": "19", 
+                    "keyword": "awaran"
+                }, 
+                {
+                    "frequency": "17", 
+                    "keyword": "earthquake"
+                }, 
+                {
+                    "frequency": "14", 
+                    "keyword": "area"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "balochistan"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "militants"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "operation"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "relief"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "soldiers"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "ahmed"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "quetta"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "doctors"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "quake"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "village"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "aid"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "september"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "mashkay"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "district"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "camp"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "punjabis"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "express"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "medical"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "provincial"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "fc"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "general"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "major"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "sumera"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "mashkai"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "struck"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "hospital"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "houses"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "areas"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "sides"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "office"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "blf"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "silence"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "separatists"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "death"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "force"
+                }, 
+                {
+                    "frequency": "5", 
+                    "keyword": "railway"
+                }
+            ]
+        }, 
+        {
+            "topic": "1", 
+            "keywords": [
+                {
+                    "frequency": "276", 
+                    "keyword": "baloch"
+                }, 
+                {
+                    "frequency": "268", 
+                    "keyword": "balochistan"
+                }, 
+                {
+                    "frequency": "132", 
+                    "keyword": "government"
+                }, 
+                {
+                    "frequency": "84", 
+                    "keyword": "pakistan"
+                }, 
+                {
+                    "frequency": "80", 
+                    "keyword": "minister"
+                }, 
+                {
+                    "frequency": "63", 
+                    "keyword": "chief"
+                }, 
+                {
+                    "frequency": "63", 
+                    "keyword": "province"
+                }, 
+                {
+                    "frequency": "62", 
+                    "keyword": "march"
+                }, 
+                {
+                    "frequency": "60", 
+                    "keyword": "persons"
+                }, 
+                {
+                    "frequency": "57", 
+                    "keyword": "dr"
+                }, 
+                {
+                    "frequency": "57", 
+                    "keyword": "army"
+                }, 
+                {
+                    "frequency": "56", 
+                    "keyword": "political"
+                }, 
+                {
+                    "frequency": "54", 
+                    "keyword": "international"
+                }, 
+                {
+                    "frequency": "52", 
+                    "keyword": "rights"
+                }, 
+                {
+                    "frequency": "51", 
+                    "keyword": "issue"
+                }, 
+                {
+                    "frequency": "51", 
+                    "keyword": "missing"
+                }, 
+                {
+                    "frequency": "48", 
+                    "keyword": "human"
+                }, 
+                {
+                    "frequency": "47", 
+                    "keyword": "pakistani"
+                }, 
+                {
+                    "frequency": "47", 
+                    "keyword": "media"
+                }, 
+                {
+                    "frequency": "46", 
+                    "keyword": "relief"
+                }, 
+                {
+                    "frequency": "44", 
+                    "keyword": "islamabad"
+                }, 
+                {
+                    "frequency": "41", 
+                    "keyword": "groups"
+                }, 
+                {
+                    "frequency": "41", 
+                    "keyword": "earthquake"
+                }, 
+                {
+                    "frequency": "39", 
+                    "keyword": "karachi"
+                }, 
+                {
+                    "frequency": "37", 
+                    "keyword": "awaran"
+                }, 
+                {
+                    "frequency": "36", 
+                    "keyword": "national"
+                }, 
+                {
+                    "frequency": "35", 
+                    "keyword": "security"
+                }, 
+                {
+                    "frequency": "34", 
+                    "keyword": "victims"
+                }, 
+                {
+                    "frequency": "33", 
+                    "keyword": "agencies"
+                }, 
+                {
+                    "frequency": "30", 
+                    "keyword": "quetta"
+                }, 
+                {
+                    "frequency": "30", 
+                    "keyword": "malik"
+                }, 
+                {
+                    "frequency": "27", 
+                    "keyword": "prime"
+                }, 
+                {
+                    "frequency": "26", 
+                    "keyword": "justice"
+                }, 
+                {
+                    "frequency": "26", 
+                    "keyword": "situation"
+                }, 
+                {
+                    "frequency": "25", 
+                    "keyword": "leaders"
+                }, 
+                {
+                    "frequency": "25", 
+                    "keyword": "areas"
+                }, 
+                {
+                    "frequency": "23", 
+                    "keyword": "disappearances"
+                }, 
+                {
+                    "frequency": "23", 
+                    "keyword": "recovery"
+                }, 
+                {
+                    "frequency": "23", 
+                    "keyword": "protest"
+                }, 
+                {
+                    "frequency": "21", 
+                    "keyword": "hundreds"
+                }
+            ]
+        }, 
+        {
+            "topic": "2", 
+            "keywords": [
+                {
+                    "frequency": "67", 
+                    "keyword": "pakistan"
+                }, 
+                {
+                    "frequency": "45", 
+                    "keyword": "malala"
+                }, 
+                {
+                    "frequency": "37", 
+                    "keyword": "taliban"
+                }, 
+                {
+                    "frequency": "27", 
+                    "keyword": "country"
+                }, 
+                {
+                    "frequency": "20", 
+                    "keyword": "drone"
+                }, 
+                {
+                    "frequency": "19", 
+                    "keyword": "pakistani"
+                }, 
+                {
+                    "frequency": "18", 
+                    "keyword": "media"
+                }, 
+                {
+                    "frequency": "17", 
+                    "keyword": "liberal"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "mehsud"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "farzana"
+                }, 
+                {
+                    "frequency": "11", 
+                    "keyword": "united"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "brother"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "drones"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "liberals"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "public"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "muhammad"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "education"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "young"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "october"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "washington"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "abbasi"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "islam"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "nabila"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "jan"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "terrorists"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "terrorist"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "pti"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "verses"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "religion"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "urban"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "rushdie"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "satanic"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "zardari"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "freedom"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "muslims"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "pakistanis"
+                }, 
+                {
+                    "frequency": "6", 
+                    "keyword": "talks"
+                }, 
+                {
+                    "frequency": "5", 
+                    "keyword": "schools"
+                }, 
+                {
+                    "frequency": "5", 
+                    "keyword": "girls"
+                }, 
+                {
+                    "frequency": "5", 
+                    "keyword": "issues"
+                }
+            ]
+        }, 
+        {
+            "topic": "3", 
+            "keywords": [
+                {
+                    "frequency": "68", 
+                    "keyword": "bugti"
+                }, 
+                {
+                    "frequency": "50", 
+                    "keyword": "baloch"
+                }, 
+                {
+                    "frequency": "46", 
+                    "keyword": "gwadar"
+                }, 
+                {
+                    "frequency": "34", 
+                    "keyword": "musharraf"
+                }, 
+                {
+                    "frequency": "33", 
+                    "keyword": "balochistan"
+                }, 
+                {
+                    "frequency": "29", 
+                    "keyword": "general"
+                }, 
+                {
+                    "frequency": "28", 
+                    "keyword": "government"
+                }, 
+                {
+                    "frequency": "26", 
+                    "keyword": "port"
+                }, 
+                {
+                    "frequency": "26", 
+                    "keyword": "dera"
+                }, 
+                {
+                    "frequency": "26", 
+                    "keyword": "gas"
+                }, 
+                {
+                    "frequency": "26", 
+                    "keyword": "nawab"
+                }, 
+                {
+                    "frequency": "22", 
+                    "keyword": "military"
+                }, 
+                {
+                    "frequency": "21", 
+                    "keyword": "pakistan"
+                }, 
+                {
+                    "frequency": "20", 
+                    "keyword": "sahib"
+                }, 
+                {
+                    "frequency": "16", 
+                    "keyword": "khan"
+                }, 
+                {
+                    "frequency": "16", 
+                    "keyword": "operation"
+                }, 
+                {
+                    "frequency": "15", 
+                    "keyword": "conflict"
+                }, 
+                {
+                    "frequency": "15", 
+                    "keyword": "marri"
+                }, 
+                {
+                    "frequency": "15", 
+                    "keyword": "corruption"
+                }, 
+                {
+                    "frequency": "15", 
+                    "keyword": "local"
+                }, 
+                {
+                    "frequency": "14", 
+                    "keyword": "natural"
+                }, 
+                {
+                    "frequency": "14", 
+                    "keyword": "sui"
+                }, 
+                {
+                    "frequency": "14", 
+                    "keyword": "security"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "land"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "chinese"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "court"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "pervez"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "china"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "area"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "minister"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "peace"
+                }, 
+                {
+                    "frequency": "11", 
+                    "keyword": "army"
+                }, 
+                {
+                    "frequency": "11", 
+                    "keyword": "country"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "forces"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "development"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "president"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "prime"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "region"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "situation"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "kohlu"
+                }
+            ]
+        }, 
+        {
+            "topic": "4", 
+            "keywords": [
+                {
+                    "frequency": "32", 
+                    "keyword": "hinglaj"
+                }, 
+                {
+                    "frequency": "30", 
+                    "keyword": "india"
+                }, 
+                {
+                    "frequency": "20", 
+                    "keyword": "border"
+                }, 
+                {
+                    "frequency": "19", 
+                    "keyword": "mata"
+                }, 
+                {
+                    "frequency": "17", 
+                    "keyword": "province"
+                }, 
+                {
+                    "frequency": "16", 
+                    "keyword": "balochistan"
+                }, 
+                {
+                    "frequency": "15", 
+                    "keyword": "kund"
+                }, 
+                {
+                    "frequency": "14", 
+                    "keyword": "temple"
+                }, 
+                {
+                    "frequency": "14", 
+                    "keyword": "strategy"
+                }, 
+                {
+                    "frequency": "13", 
+                    "keyword": "disaster"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "response"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "forces"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "pakistan"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "development"
+                }, 
+                {
+                    "frequency": "12", 
+                    "keyword": "matha"
+                }, 
+                {
+                    "frequency": "11", 
+                    "keyword": "areas"
+                }, 
+                {
+                    "frequency": "11", 
+                    "keyword": "dawah"
+                }, 
+                {
+                    "frequency": "11", 
+                    "keyword": "disasters"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "iranian"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "natural"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "security"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "pakistani"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "hindus"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "insurgents"
+                }, 
+                {
+                    "frequency": "10", 
+                    "keyword": "kashmir"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "sati"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "baloch"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "devotees"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "military"
+                }, 
+                {
+                    "frequency": "9", 
+                    "keyword": "mountain"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "kali"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "network"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "region"
+                }, 
+                {
+                    "frequency": "8", 
+                    "keyword": "coastal"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "risk"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "islamic"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "shrine"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "iran"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "number"
+                }, 
+                {
+                    "frequency": "7", 
+                    "keyword": "earthquake"
+                }
+            ]
+        }
+    ]
+}

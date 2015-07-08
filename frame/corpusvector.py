@@ -13,29 +13,33 @@ import grammarmodule
 
 def load_file(filename, GRAM):
     corpus = []
-    print GRAM
-    print "testing..."
+    if GRAM == 1:
+        print "Extracting Grammar ..."
+    else:
+        print "Generating..."
     f = open(filename, 'r')
     c = 0
     g = grammarmodule.GrammarModule()
     print 
     for line in f:
+        str = g.encode(line.decode('utf-8'))
         c = c + 1
-        str = re.sub('[^A-Za-z0-9 \'\,\.\-]+', '', line)
-        str = line.lower()
-        str = str.decode("utf8")
-        doc = re.findall(r'\w+(?:\'\w+)?',str)
-        ##use this
+        #str = re.sub('[^A-Za-z0-9 \'\,\.\-]+', '', line)
+        #str = line.lower()
+        #str = str.decode("utf8")
+        #doc = re.findall(r'\w+(?:\'\w+)?',str)        
+        #for grammar
         if GRAM == 1:
             doc = nltk.word_tokenize(g.get_str_entities(str))
+        #without grammar
         else:
             doc = nltk.word_tokenize(str)
         doc =[w.lower() for w in doc if len(w) > 1]
         if len(doc)>0:
             corpus.append(doc)
     f.close()
-    print "filename:", filename
-    print "files lines:", c	
+    print "Filename:", filename
+    print "Files lines:", c	
     return corpus
 
 recover_list = {"wa":"was", "ha":"has"}
